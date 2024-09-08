@@ -1,0 +1,12 @@
+pandas
+os-sys
+pathlib
+plotly
+seaborn
+matplotlib
+numpy
+scipy
+statsmodels
+scikit-learn
+inflection
+sqlalchemy
